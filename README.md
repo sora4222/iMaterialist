@@ -1,0 +1,1 @@
+"# iMaterialist \nThis project is to produce a semantic segmentation model through which fashion items can be identified see https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6/overview for more detail." 
